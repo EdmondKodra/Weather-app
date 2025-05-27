@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom right, #6dd5fa, #2980b9);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  max-width: 400px;
+  width: 100%;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-box input {
+  padding: 10px;
+  width: 65%;
+  border: none;
+  border-radius: 10px 0 0 10px;
+  font-size: 16px;
+}
+
+.search-box button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #ffffff;
+  color: #2980b9;
+  font-weight: bold;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.search-box button:hover {
+  background-color: #ddd;
+}
+
+.weather-box {
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 15px;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.weather-box h2 {
+  font-size: 28px;
+}
+
+.description {
+  font-style: italic;
+  font-size: 18px;
+  text-transform: capitalize;
+  margin: 10px 0;
+}
+
+.temp {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.error {
+  color: #ffcccc;
+  background-color: rgba(255, 0, 0, 0.3);
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+@keyframes fadeIn {
+  from {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
