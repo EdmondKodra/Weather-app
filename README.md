@@ -14,9 +14,9 @@ Aplikacion i thjeshtë për të shfaqur të dhënat e motit në kohë reale duke
 - 🌐 OpenWeatherMap API
 - 💅 CSS për stilizim
 ## 📸 Screenshot
-![photo1](https://github.com/user-attachments/assets/682d3a85-9455-462d-9539-22905db9fbc1)
+![2](https://github.com/user-attachments/assets/40d00cbc-5f80-480a-9809-65e7d78ad1b2)
+![1](https://github.com/user-attachments/assets/028d5f4a-082f-4b64-b6c9-4f685ebf737f)
 
-![photo2](https://github.com/user-attachments/assets/903491e8-1f3b-4fce-afd7-0e3aa6ef11de)
 
 
 ## 📦 Instalimi
