@@ -15,10 +15,8 @@ Aplikacion i thjeshtë për të shfaqur të dhënat e motit në kohë reale duke
 - 💅 CSS për stilizim
 ## 📸 Screenshot
 
-![2](https://github.com/user-attachments/assets/cf30cca1-3920-44cb-8604-c5ad16d1f4c8)
 ![1](https://github.com/user-attachments/assets/4c65ccd8-b9c5-4c37-a59f-4158ce97f679)
-
-
+![2](https://github.com/user-attachments/assets/cf30cca1-3920-44cb-8604-c5ad16d1f4c8)
 
 
 ## 📦 Instalimi
