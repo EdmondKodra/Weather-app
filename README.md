@@ -15,8 +15,8 @@ Aplikacion i thjeshtë për të shfaqur të dhënat e motit në kohë reale duke
 - 💅 CSS për stilizim
 ## 📸 Screenshot
 
-![Screenshot i aplikacionit](https://raw.githubusercontent.com/EdmondKodra/weather-app/main/screenshots/photo1.png)
-![Screenshot i aplikacionit](https://raw.githubusercontent.com/EdmondKodra/weather-app/main/screenshots/photo2.png)
+![Screenshot](https://raw.githubusercontent.com/EdmondKodra/weather-app/main/screenshot/photo1.png)
+![Screenshot i aplikacionit](https://raw.githubusercontent.com/EdmondKodra/weather-app/main/screenshot/photo2.png)
 
 ## 📦 Instalimi
 
