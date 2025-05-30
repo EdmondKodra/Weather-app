@@ -24,7 +24,7 @@ Aplikacion i thjeshtë për të shfaqur të dhënat e motit në kohë reale duke
 1. Klono projektin:
 
 ```bash
-git clone https://github.com/emri-yt/weather-app.git
+git clone https://github.com/Edmondkodra/weather-app.git
 cd weather-app
 install i
 Krijo nje file .env ne root dhe shkruaje (REACT-APP-API-KEY=KEY I YT)
